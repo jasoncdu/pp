@@ -19,6 +19,6 @@ app.get("*", function(request, response) {
   response.end("404!");
 });
 
-//test
+//nm
 
 http.createServer(app).listen(80);
